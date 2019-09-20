@@ -1,4 +1,5 @@
 # 3DCNN
+A copy from [kcct-fujimotolab](https://github.com/kcct-fujimotolab/3DCNN).
  Implementation of 3D Convolutional Neural Network for video classification using [Keras](https://keras.io/)(with [tensorflow](https://www.tensorflow.org/) as backend).
 
 ## Description
